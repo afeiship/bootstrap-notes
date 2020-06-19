@@ -1,0 +1,17 @@
+{
+  "name": "@feizheng/bootstrap-notes",
+  "version": "1.0.0",
+  "description": "Bootstrap notes.",
+  "homepage": "https://github.com/afeiship",
+  "author": {
+    "name": "afeiship",
+    "email": "1290657123@qq.com"
+  },
+  "scripts": {
+    "start": "server src"
+  },
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}
